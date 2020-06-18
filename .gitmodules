@@ -1,0 +1,3 @@
+[submodule "go-mercury-proto"]
+	path = go-mercury-proto
+	url = https://github.com/xiuyoung89/go-mercury-proto.git
